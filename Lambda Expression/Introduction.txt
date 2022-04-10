@@ -11,3 +11,10 @@
 2) To write more Readable, Maintanable & Concise code.
 3) To use APIs very Easily & Effectively.
 4) To enable Parallel Processing.
+
+----------------------------- What is Lambda Expression ? ------------------------------------
+
+1) Lamba Function is an "Anonymous Expression"
+    Not having any name
+    Not having modifier
+    Not having any return type
