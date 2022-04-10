@@ -1,0 +1,52 @@
+-------------------------------------- Java 8 Features -----------------------------------------
+
+1) Lambda Expressions
+    Java in Object-Oriented Programming (OOPs) Language
+    However, Functional Programming Langauge also has some advantage over OOPs Language
+    To provide the easy of using Functional Programming Language advantages in Java, Lambda Expression was introduced.
+    So we are getting benefits of Functional Programming in Java, by using Lambda Expression
+
+2) Functional Interfaces
+    It can be used to call Lambda Expressions
+
+3) Default Methods (In interfaces)
+    In the interfaces (till java 7),
+        Every mehtod is abstract or public (Whether we are declaring or not)
+        Every variable is public, static , final (Whether we are declaring or not)
+    In Java 8, 
+        You can declare concrete mathods also, those methods are called DEFAULT METHODS
+
+4) Static Methods (In Interface)
+
+5) Predicate 
+    Predefined Functional Interface
+
+6) Function
+    Predefined Functional Interface
+
+7) Consumer
+    Predefined Functional Interface
+
+8) Method Rerference & Constructor Rerference (::)
+
+9) Stream API
+    To perform bulk operation on collection, will becaome more easy
+
+10) Date & Time API (Joda API)
+    introduced by joda.org and hence also known as Joda API
+
+---------------------------------------- Java Versions --------------------------------------------
+
+Java 1.0 (Basic Version)
+    Java 1.1
+Java 1.2 (Collections framework introduced)
+    Java 1.3
+    Java 1.4
+Java 1.5 (For each loop, Annotation concept, var args, enums, generics, auto-boxing, auto-unboxing was introduced)
+    Java 1.6
+    Java 1.7
+Java 1.8
+    Need of Java 8
+        1) To simplify java programmming
+        2) To utilize functional programming benefits in Java
+        3) To enable Parallel Programming (or Parallel Processing) in Java
