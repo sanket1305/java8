@@ -1,0 +1,13 @@
+------------------------------------- History ----------------------------------------------
+
+1) Lambda calculus is a big change in mathematical world which has been introduced in 1930.
+2) Because of benefits of Lambda calculus slowly this concepts started using in programming world.
+3) “LISP” is the first programming which uses Lambda Expression.
+4) "JAVA" is LAST language started using lambda functions
+
+-------------------------------------- Benefits --------------------------------------------
+
+1) To ENABLE "Functional Programming" in Java.
+2) To write more Readable, Maintanable & Concise code.
+3) To use APIs very Easily & Effectively.
+4) To enable Parallel Processing.
