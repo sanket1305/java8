@@ -16,3 +16,9 @@ Previously called as Runnable, Callable or ActionListener Interface
 
 Must contain ONLY 1 abstract method
 Can contain ANY number of "Static" or "Default" method
+
+------------------------------- @FunctionalINterface -------------------------------------------
+
+Even if we do not use annotation, and there is only one abstarct method in interface. Then it will be treated as Fcunctional Interface
+Adavntage of using annotation is, it detects errors of functional interface at compile time instead of at run time
+
