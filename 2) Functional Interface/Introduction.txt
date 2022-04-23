@@ -1,0 +1,18 @@
+------------------------------- Use of Functional Interface? ------------------------------------
+
+Once we right lambda expression, to invoke that lambda expression we need "Functional Interface"
+
+
+------------------------------- What is Function Interface? --------------------------------------
+
+If the interface contain ONLY Single (one) Abstract Method (SAM). That interface is called "Functional Interface"
+Previously called as Runnable, Callable or ActionListener Interface 
+    "Runnable" contains only "run()"
+    "Callable" contains only "call()"
+    "ActionListener" contains only "actionPerformer()"
+    "Comparable" contains only "compareTo()"
+
+------------------------------- Rules for Functional Interfaces ---------------------------------
+
+Must contain ONLY 1 abstract method
+Can contain ANY number of "Static" or "Default" method
