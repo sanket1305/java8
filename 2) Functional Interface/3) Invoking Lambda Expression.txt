@@ -1,0 +1,17 @@
+In all examples we haven't use below things: -
+1. data type of paramters 
+2. no {} outside function (with only one line in function)
+
+------------------------- WithLambda.java & WithoutLambda.java --------------------------------
+
+method with no parameter.
+
+------------------------ WithLambda1.java & WithoutLambda1.java -------------------------------
+
+method with 2 parameters
+
+------------------------ WithLambda2.java & WithoutLambda2.java -------------------------------
+
+method with 1 parameter and return type as int.
+Notice how we have optimized code by not using ()
+We also didn't used return statement 

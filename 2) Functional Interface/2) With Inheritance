@@ -2,4 +2,4 @@
 
 1. If an interface extends Functional Interface and child interface does not contain any abstract method, then child interface is always functional interface
 2. In the child interface, we can define exactly same parent interface abstract method.
-3. In the child interface we can't define any new abstarct methods otheriwse we will get COMPILE TIME ERROR
+3. In the child interface we can't define any new abstract methods otheriwse we will get COMPILE TIME ERROR

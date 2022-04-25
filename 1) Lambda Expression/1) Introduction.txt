@@ -26,3 +26,7 @@
     Sometimes based on context, compiler can guess the data type of parameters automatically. This is called "Type Inference".
 3) NO need to use return statement, in case of single statement in lambda function.
 4) If there is only one parameter, then no need to add () paranthesis around the parameter of lambda function
+
+------------------------------ How to call Lambda Expression -----------------------------------
+
+Using Functional Interface only
