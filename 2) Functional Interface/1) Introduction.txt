@@ -20,5 +20,12 @@ Can contain ANY number of "Static" or "Default" method
 ------------------------------- @FunctionalINterface -------------------------------------------
 
 Even if we do not use annotation, and there is only one abstarct method in interface. Then it will be treated as Fcunctional Interface
-Adavntage of using annotation is, it detects errors of functional interface at compile time instead of at run time
+Advantage of using annotation is, it detects errors of functional interface at compile time instead of at run time
 
+--------------- Why Functional Interface should contain only 1 abstract method ? ---------------
+
+1. Functional Interface were invented to call lambda expression
+2. lambda expression maps the function to the abstact method of functional interface.
+3. So if functional interface had more than 1 ABSTRACT method, compiler would get confused which ABSTRACT method should be mapped with lambda expression.
+4. And compiler will throw.... Compile Time Error: - Incompatible type....
+5. e.g. FuncWithAbstract2.java

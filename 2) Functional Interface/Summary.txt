@@ -1,3 +1,10 @@
 ----------------------------------- Functional Interface -----------------------------------
 
-1. It should contain exectly one abstract method
+1. It should contain EXACTLY one abstract method (SAM => Simple Abstract Method)
+2. It can contain ANY NUMBER OF default and static method
+3. It acts as a type for lambda expression
+   e.g. Interf i = () -> System.out.println("Hello");
+   here Interf is Functinal interface, which defines type of lambda expression
+4. It can be used to invoke lambda-expressions
+   e.g. i.m1();
+
