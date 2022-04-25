@@ -1,0 +1,29 @@
+--------------------------------- What is Runnable? -------------------------------------
+
+1. Runnable is a functional interface.
+2. It has only one abstract method called run()
+3. It is used to create threads
+4. Requires Less memory
+5. Multiple threads share the same object.
+6. If our class implements Runnable Interface, then it can extend other class also.
+
+-------------------------------- What are Thread? ------------------------------------
+
+IMP => Every java class has one thread called, main() method
+
+1. Thread is class in java.
+2. It has multiple methods including start(), run()
+3. It is also used to create threads
+4. Requires more memory
+5. Each threads requires unique object associated with it. 
+6. Since, java does not support multiple inheritance. Hence, if our class extends Thread class then it can;t extend any other class
+
+------------------------------- Sample codes --------------------------------------------
+Check ThreadsDemo1.java (Without lambda)
+Check ThreadsDemo2.java (With Lambda)
+
+----------------------------- What is Multithreading ------------------------------------
+
+When we have more than 1 thread, where none of them has dependency on any of the other thread.
+We can execute all such threads at same time. 
+This saves time and called as multi-threading 

@@ -1,0 +1,3 @@
+----------------------------------- Functional Interface -----------------------------------
+
+1. It should contain exectly one abstract method
